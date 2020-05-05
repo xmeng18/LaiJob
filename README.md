@@ -1,2 +1,2 @@
 # LaiJob
-一个基于github job search Api 的 job search app
+[<img src="https://img.youtube.com/viGKFdxzmIzq8/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=GKFdxzmIzq8&feature=youtu.be)
